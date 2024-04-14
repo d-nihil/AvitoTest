@@ -4,6 +4,6 @@
 4. Скачать и установить Maven (Binary zip archive). Ссылка для скачивания: https://maven.apache.org/download.cgi
 5. Распаковать архив с Maven в любую директорию
 6. Установить переменную окружения M2_HOME вида "путь к директории\apache-maven-3.9.6"
-7. Добавить в переменную окружения PATH путь "%M2_HOME%\bin"
+7. Добавить в переменную окружения Path путь "%M2_HOME%\bin"
 8. Через git bash зайти в папку, куда нужно скачать проект, и выполнить команду "git clone git@github.com:d-nihil/AvitoTest.git"
 9. Зайти в git bash в папку AvitoTest и выполнить команду "mvn test"
